@@ -54,3 +54,17 @@ Step 7 :- Run the Project :D
 Project Glimpse :-
 
 ![](/imagesofproject/LandingPage.png)
+
+![](/imagesofproject/studentlogin.png)
+
+![](/imagesofproject/examlayout.jpg)
+
+![](/imagesofproject/resultpage.jpg)
+
+![](/imagesofproject/rank.jpg)
+
+![](/imagesofproject/teacherlogin.jpg)
+
+![](/imagesofproject/adminpanel.jpg)
+
+![](/imagesofproject/modifyq.jpg)
