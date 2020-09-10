@@ -176,8 +176,8 @@ public class email_verify extends javax.swing.JFrame {
  try{ 
      Random rand=new Random();
      OTP=rand.nextInt(999999);
-          final String from = "rishijoshi2sep@gmail.com"; // change accordingly
-          final String password = "24558289669045091"; // change accordingly
+          final String from = "your email"; // change accordingly
+          final String password = "your password"; // change accordingly
           String to = jTextField1.getText(); // change accordingly
           String host = "smtp.gmail.com"; // or IP address
 
