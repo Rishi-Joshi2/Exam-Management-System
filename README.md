@@ -37,15 +37,15 @@ Linkedin Profile :- https://www.linkedin.com/in/anil-meher-2962b156/
 
 How to run this project :-
 
-Step 1 :- Create a project in netbean ide with any name you want
+Step 1 :- Create a project in netbean ide with any name you want.
 
-Step 2 :- Download This repository files in that project folder
+Step 2 :- Download This repository files in that project folder except exam.sql.
 
-Step 3 :- Install mysql database and import the sql file provided in this repository
+Step 3 :- Install mysql database and import the sql file provided in this repository.
 
 Step 4 :- Add all the required library in you project namely javax.mail and mysql java connector.
 
-Step 5 :- in the file email-verify.java enter your email id and password.
+Step 5 :- In the file email-verify.java enter your email id and password.
 
 Step 6 :- In the myconnection.java enter your mysql username and password.
 
