@@ -50,3 +50,7 @@ Step 5 :- In the file email-verify.java enter your email id and password.
 Step 6 :- In the myconnection.java enter your mysql username and password.
 
 Step 7 :- Run the Project :D
+
+Project Glimpse :-
+
+![GitHub Logo](/images of project/Landing Page.png)
