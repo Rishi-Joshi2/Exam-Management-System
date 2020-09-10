@@ -53,4 +53,4 @@ Step 7 :- Run the Project :D
 
 Project Glimpse :-
 
-![GitHub Logo](/images of project/Landing Page.png)
+![](/imagesofproject/LandingPage.png)
